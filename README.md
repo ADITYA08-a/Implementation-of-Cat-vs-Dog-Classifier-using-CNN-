@@ -1,4 +1,4 @@
-Here's a simple, straightforward README for your project based on the code you uploaded. 
+This is an implementation of Cat vs Dog Classifier
 
 # Cat vs Dog Image Classifier
 

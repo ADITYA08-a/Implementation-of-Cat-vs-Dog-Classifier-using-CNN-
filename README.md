@@ -115,25 +115,12 @@ After training, the model weights are saved as:
 CNN.pth
 ```
 
-## Future Improvements
-
-Possible extensions:
-
-* Knowledge Distillation
-* Ensemble Models
-* ResNet / EfficientNet Teachers
-* Biomedical Image Classification
-* ONNX Export
-* Gradio Web Interface
-* Multi-label Classification
-* Self-Supervised Pretraining (SimCLR)
-
 ## Frameworks Used
 
 * PyTorch
 * Torchvision
 * ONNX
-* CUDA (optional)
+* CUDA 
 
 ## Author
 
